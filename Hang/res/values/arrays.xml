@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="words">
+		<item>APPLE</item>
+		<item>BANANA</item>
+		<item>KIWI</item>
+		<item>PINEAPPLE</item>
+		<item>PEAR</item>
+		<item>STRAWBERRY</item>
+		<item>CHERRY</item>	
+	</string-array>
+
+</resources>
